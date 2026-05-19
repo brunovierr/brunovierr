@@ -8,16 +8,17 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
     </a>
 </div>
-<h2 align="left">sobre mim</h2>
+<h3 align="left">sobre mim</h3>
 
   <p align="left">Opa! Sou dev Full-Stack em formação, fazendo ADS na UCB (atualmente no 3º semestre). Já tenho experiência prática com JS, Python, C, Node, HTML5, CSS3, Git, MySQL, e no momento tô expandindo meus conhecimentos pro React. Tô em busca da minha primeira vaga como estagiário ou dev jr.</p>
 
+<h2></h2>
 
-<h2 align="left">minha stack</h2>
+<h3 align="left">minha stack</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
@@ -39,9 +40,5 @@
 
 ###
 <br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brunovierr/brunovierr/pacman-output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brunovierr/brunovierr/pacman-output/galaga-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/brunovierr/brunovierr/pacman-output/galaga-contribution-graph.svg">
-</picture>
+
 
