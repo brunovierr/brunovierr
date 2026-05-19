@@ -10,7 +10,7 @@
 </div>
 <h3 align="left">sobre mim</h3>
 
-  <p align="left">Opa! Sou dev Full-Stack em formação, fazendo ADS na UCB (atualmente no 3º semestre). Já tenho experiência prática com JS, Python, C, Node, HTML5, CSS3, Git, MySQL, e no momento tô expandindo meus conhecimentos pro React. Tô em busca da minha primeira vaga como estagiário ou dev jr.</p>
+  <p align="left">Opa! Me chamo Bruno e sou dev Full-Stack em formação, fazendo ADS na UCB (atualmente estou no 3º semestre). Já tenho experiência prática com JS, Python, C, Node, HTML5, CSS3, Git, MySQL, e no momento tô expandindo meus conhecimentos pro React. Tô em busca da minha primeira vaga como estagiário ou dev jr.</p>
 
 <h2></h2>
 
